@@ -1,4 +1,4 @@
-# Stats_bioinformatics
+# Stats & bioinformatics learning material
 > Author: Huitian (Yolanda) Diao <br/>
 > Slides for presentions on stats & bioinformatics
 
