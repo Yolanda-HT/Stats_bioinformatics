@@ -1,5 +1,5 @@
 # Stats_bioinformatics
-## Author: Huitian (Yolanda) Diao <br/>
+> Author: Huitian (Yolanda) Diao <br/>
 > Slides for presentions on stats & bioinformatics
 
 ## Dimensionality reduction <br/>
@@ -7,4 +7,4 @@
 
 ## Intro to types of machine learning <br/>
 * SVM & PCA
-* Algothrim optimization
+* Optimization algorithms
